@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   fill="none"
+   height="512"
+   viewBox="0 0 24 24"
+   width="512"
+   version="1.1"
+   id="svg835"
+   sodipodi:docname="left-arrow.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)">
+  <metadata
+     id="metadata841">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs839" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="797"
+     id="namedview837"
+     showgrid="false"
+     inkscape:zoom="1.1953125"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg835" />
+  <ellipse
+     ry="5.8039217"
+     rx="5.9215693"
+     cy="11.725491"
+     cx="12.196079"
+     id="path838"
+     style="fill:#ffffff;stroke-width:0.0624999;paint-order:markers stroke fill;stop-color:#000000" />
+  <path
+     style="fill:#000000"
+     clip-rule="evenodd"
+     d="M 22.75,12 C 22.75,6.06294 17.93706,1.25 12,1.25 6.0629,1.25 1.25,6.06294 1.25,12 1.25,17.9371 6.0629,22.75 12,22.75 17.93706,22.75 22.75,17.9371 22.75,12 Z M 10.4697,7.46967 c 0.2929,-0.29289 0.7677,-0.29289 1.0606,0 0.2929,0.29289 0.2929,0.76777 0,1.06066 L 9.3107,10.75 H 17 c 0.41421,0 0.75,0.3358 0.75,0.75 0,0.4142 -0.33579,0.75 -0.75,0.75 H 9.1528 l 2.4116,2.7561 c 0.2728,0.3117 0.2412,0.7856 -0.0705,1.0583 -0.3117,0.2728 -0.7856,0.2412 -1.0583,-0.0705 l -3.5,-4 c -0.26,-0.2972 -0.2451,-0.745 0.0341,-1.0242 z"
+     fill="#000000"
+     fill-rule="evenodd"
+     id="path833" />
+</svg>
