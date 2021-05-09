@@ -991,6 +991,7 @@ body {
 
 .about--banner h3 {
   position: relative;
+  display: inline-block;
   margin-top: 20px;
   font-size: 30px;
   font-weight: 800;
@@ -1002,7 +1003,7 @@ body {
   content: "";
   position: absolute;
   top: 100%;
-  width: 30%;
+  width: 100%;
   left: 0;
   z-index: -1;
   height: 10px;
@@ -1161,6 +1162,7 @@ body {
   height: 15px;
   opacity: 0;
   background-color: #0cf6b4;
+  z-index: -1;
 }
 .outer-nav > li.is-active::before {
   opacity: 1;
