@@ -829,6 +829,7 @@ body {
   font-size: 12px;
   font-weight: 700;
   text-transform: uppercase;
+  background: #f9f9f9;
 }
 .work--lockup .slider--item-description {
   display: none;
@@ -861,6 +862,11 @@ body {
           transform: translateY(-50%);
   display: block;
 }
+
+.work--lockup .slider--item-extra {
+  display: none;
+}
+
 .work--lockup .slider--item-center {
   position: relative;
   top: 30px;
@@ -875,6 +881,7 @@ body {
 .work--lockup .slider--item-center .slider--item-title {
   margin-top: 25px;
   font-size: 16px;
+  background: #f9f9f9
 }
 .work--lockup .slider--item-center .slider--item-description {
   display: block;

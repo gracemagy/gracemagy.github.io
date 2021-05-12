@@ -967,6 +967,7 @@
                     l = $(".slider--item-left"),
                     c = $(".slider--item-center"),
                     h = $(".slider--item-right"),
+                    k = $(".slider--item-extra"),
                     u = $(".slider--item");
                 $(".slider").animate({ opacity: 0 }, 400),
                     setTimeout(function () {
@@ -974,7 +975,8 @@
                             ? a - 1 > i && a - 1 > s && a - 1 > o
                                 ? (l.removeClass("slider--item-left").next().addClass("slider--item-left"),
                                   c.removeClass("slider--item-center").next().addClass("slider--item-center"),
-                                  h.removeClass("slider--item-right").next().addClass("slider--item-right"))
+                                  h.removeClass("slider--item-right").next().addClass("slider--item-right"),
+                                  k.removeClass("slider--item-extra"))
                                 : i === a - 1
                                 ? (u.removeClass("slider--item-left").first().addClass("slider--item-left"),
                                   c.removeClass("slider--item-center").next().addClass("slider--item-center"),
@@ -993,7 +995,8 @@
                             : 0 === i
                             ? (u.removeClass("slider--item-left").last().addClass("slider--item-left"),
                               c.removeClass("slider--item-center").prev().addClass("slider--item-center"),
-                              h.removeClass("slider--item-right").prev().addClass("slider--item-right"))
+                              h.removeClass("slider--item-right").prev().addClass("slider--item-right"),
+                              k.removeClass("slider--item-extra"))
                             : 0 === s
                             ? (l.removeClass("slider--item-left").prev().addClass("slider--item-left"),
                               u.removeClass("slider--item-center").last().addClass("slider--item-center"),
