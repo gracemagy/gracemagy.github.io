@@ -677,6 +677,10 @@ body {
   background-color: #00a0dc;
 }
 
+.intro--banner button .btn-background-medium {
+  background-color: #e3e3e3;
+}
+
 .intro--banner button:hover .btn-background {
   left: 0;
 }
