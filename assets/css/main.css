@@ -6,8 +6,12 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
-body {
+body, ol, ul {
   margin: 0;
+}
+
+ol,ul {
+  padding: 16px;
 }
 
 article,
