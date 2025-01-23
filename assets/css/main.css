@@ -52,6 +52,7 @@ a {
   background-color: transparent;
   text-decoration: none;
   color: #222;
+  cursor: pointer;
 }
 
 a:active,
